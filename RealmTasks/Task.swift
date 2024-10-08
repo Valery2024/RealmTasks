@@ -6,6 +6,11 @@
 //
 import UIKit
 
+class Task: UIView {
+    let button = UIButton()
+        
+    
+}
 
 
 
